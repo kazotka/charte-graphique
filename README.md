@@ -4,6 +4,8 @@ Grâce à cette charte graphique, vous avez accès à une grande partie des illu
 ## Droit d'auteur
 Cette charte est sous droit d'auteur. Voici les restrictions :
 
+License Copyright: MIT
+
 **Copyright** 2023 <AISON> *kazotka* - Animevents
   
 L'autorisation est accordée par la présente, gratuitement, à toute personne obtenant une copie des fichiers du documentation associés, de traiter les fichiers sans restriction, y compris sans limitation les droits d'utilisation, de copie, de modification, de fusion, de publication, de distribution, de sous-licence, et/ou de vente de copies des fichiers, et d'autoriser les personnes à qui les fichiers est fourni à le faire, sous réserve des conditions suivantes :
